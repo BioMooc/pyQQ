@@ -1,0 +1,8 @@
+Aim: talks of command clients;
+
+socket: https://www.liaoxuefeng.com/wiki/1016959663602400/1017788916649408
+
+# basic py socket
+# flask cookie and session
+v0.0.1 v2/a4 parse URL; v2/a5 md5sum; v2/b1 test Sqlite; v2/b1_2 ok;
+
